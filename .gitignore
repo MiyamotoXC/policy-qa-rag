@@ -57,3 +57,5 @@ unsloth_compiled_cache/
 .idea/
 *.swp
 .DS_Store
+
+vector_store/
